@@ -7,9 +7,8 @@ For your final project, you are to implement a web site rendition of the designs
 * All CSS in the `css` folder.
 * All `.jpg` and `.png` image files in the `img` folder.
 * Any JavaScript in the `js` folder.
-* Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
+* Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
 * No image file should be larger than 1MB.
-* Only submit files that are required by your project.
 * Use lowercase to name every folder and file.
 * Use snake case (dashes) in file names; No spaces in folder or file names
 
