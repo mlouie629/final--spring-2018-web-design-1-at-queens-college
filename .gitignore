@@ -1,0 +1,9 @@
+*.pdf
+*.psd
+*.ai
+*.indd
+*.sketch
+.DS_Store
+
+!.gitignore
+!js/
