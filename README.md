@@ -28,13 +28,10 @@ For your final project, you are to implement a web site rendition of the designs
 | **JavaScript—if applicable—in proper folder**             | `5`    | 1 or more files generates 0pt  |
 | **Submission of working files**                           | `5`    | 1 or more files generates 0pt  |
 
-## Due Dates
+## Due Date
+The following due date applies to both the Monday *and* Tuesday sections.
 
-### Monday Section
-5:00 PM on 21 May 2018. **No late work will be accepted.**
-
-### Tuesday Section
-5:00 PM on 22 May 2018. **No late work will be accepted.**
+**Sunday, 20 May 2018, at 5:00 PM. *No late work will be accepted.* **
 
 ## Submission
 1. Login to GitHub.
