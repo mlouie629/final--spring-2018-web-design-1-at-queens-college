@@ -7,7 +7,7 @@ For your final project, you are to implement a web site rendition of the designs
 * All `.jpg` and `.png` image files in the `img` folder.
 * No image file should be larger than 1MB.
 * Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
-* Use lowercase, combined with kebab case (dashes), to name folders and files; No spaces in folder or file names; no camel case; no snake case.
+* Use lowercase, combined with kebab case, to name folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
 * Valid HTML, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package discussed in class. **Note**: The original HTML validator from the syllabus is invalid, also per our dicsussion in a previous class.
 * Valid CSS, per the same [w3c-validation](https://atom.io/packages/w3c-validation) Atom package.
 
