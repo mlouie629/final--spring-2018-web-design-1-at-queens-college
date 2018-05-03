@@ -17,7 +17,7 @@ For your final project, you are to implement a web site rendition of the designs
 | **Adherence to midterm designs**                          | `20`   | None                           |
 | **Responsive implementation of web site**                 | `20`   | None                           |
 | **Files *not* required by project**                       | `10`   | 1 or more files generates 0pt  |
-| **Snake- and lower-case used for file and folder naming** | `10`   | 1 or more files generates 0pt  |
+| **Kebab- and lower-case used for file and folder naming** | `10`   | 1 or more files generates 0pt  |
 | **Valid W3C HTML, per validator**                         | `10`   | 1 or more errors generates 0pt |
 | **Valid W3C CSS, per validator**                          | `5`    | 3 or more errors generates 0pt |
 | **CSS in proper folder**                                  | `5`    | 1 or more files generates 0pt  |
