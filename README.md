@@ -16,15 +16,15 @@ For your final project, you are to implement a web site rendition of the designs
 |-----------------------------------------------------------|:------:|--------------------------------|
 | **Adherence to midterm designs**                          | `20`   | None                           |
 | **Responsive implementation of web site**                 | `20`   | None                           |
-| **Files *not* required by project**                       | `10`   | 1 or more files generates 0pt  |
-| **Kebab- and lower-case used for file and folder naming** | `10`   | 1 or more files generates 0pt  |
-| **Valid W3C HTML, per validator**                         | `10`   | 1 or more errors generates 0pt |
-| **Valid W3C CSS, per validator**                          | `5`    | 3 or more errors generates 0pt |
-| **CSS in proper folder**                                  | `5`    | 1 or more files generates 0pt  |
-| **Images in proper folder**                               | `5`    | 1 or more files generates 0pt  |
-| **Images larger than 1MB**                                | `5`    | 1 or more files generates 0pt  |
-| **JavaScript—if applicable—in proper folder**             | `5`    | 1 or more files generates 0pt  |
-| **Submission of working files**                           | `5`    | 1 or more files generates 0pt  |
+| **Files *not* required by project**                       | `10`   | 1+ generates `0` points        |
+| **Kebab- and lower-case used for file and folder naming** | `10`   | 1+ generates `0` points        |
+| **Valid W3C HTML, per validator**                         | `10`   | 1+ errors generates `0` points |
+| **Valid W3C CSS, per validator**                          | `5`    | 3+ errors generates `0` points |
+| **CSS in proper folder**                                  | `5`    | 1+ files generates `0` points  |
+| **Images in proper folder**                               | `5`    | 1+ files generates `0` points  |
+| **Images larger than 1MB**                                | `5`    | 1+ files generates `0` points  |
+| **JavaScript—if applicable—in proper folder**             | `5`    | 1+ files generates `0` points  |
+| **Submission of working files**                           | `5`    | 1+ files generates `0` points  |
 
 ## Due Date
 The following due date applies to both the Monday *and* Tuesday sections.
