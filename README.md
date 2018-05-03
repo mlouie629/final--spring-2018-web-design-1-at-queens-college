@@ -2,15 +2,14 @@
 For your final project, you are to implement a web site rendition of the designs you created for the midterm. This web site should be a full implementation of your midterm designs, complete with working links, valid content, and responsive versions of all pages.
 
 ## Instructions
+* All CSS in the `css` folder.
+* All JavaScript, if applicable, in the `js` folder.
+* All `.jpg` and `.png` image files in the `img` folder.
+* No image file should be larger than 1MB.
+* Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
+* Use lowercase, combined with kebab case (dashes), to name folders and files; No spaces in folder or file names; no camel case; no snake case.
 * Valid HTML, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package discussed in class. **Note**: The original HTML validator from the syllabus is invalid, also per our dicsussion in a previous class.
 * Valid CSS, per the same [w3c-validation](https://atom.io/packages/w3c-validation) Atom package.
-* All CSS in the `css` folder.
-* All `.jpg` and `.png` image files in the `img` folder.
-* Any JavaScript in the `js` folder.
-* Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
-* No image file should be larger than 1MB.
-* Use lowercase to name every folder and file.
-* Use snake case (dashes) in file names; No spaces in folder or file names
 
 ## Grading
 | Item                                                      | Points |  Explanation                   |
