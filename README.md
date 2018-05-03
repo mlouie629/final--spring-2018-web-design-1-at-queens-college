@@ -13,7 +13,7 @@ For your final project, you are to implement a web site rendition of the designs
 
 ## Grading
 | Item                                                      | Points |  Explanation                   |
-|-----------------------------------------------------------|:------:|:------------------------------:|
+|-----------------------------------------------------------|:------:|--------------------------------|
 | **Adherence to midterm designs**                          | `20`   | None                           |
 | **Responsive implementation of web site**                 | `20`   | None                           |
 | **Files *not* required by project**                       | `10`   | 1 or more files generates 0pt  |
