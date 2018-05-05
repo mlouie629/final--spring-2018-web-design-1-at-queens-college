@@ -29,7 +29,7 @@ For your final project, you are to implement a web site rendition of the designs
 ## Due Date
 The following due date applies to both the Monday *and* Tuesday sections.
 
-**Sunday, 20 May 2018, at 5:00 PM. *No late work will be accepted.* **
+**Sunday, 20 May 2018, at 5:00 PM. _No late work will be accepted._**
 
 ## Submission
 1. Login to GitHub.
