@@ -8,7 +8,7 @@ For your final project, you are to implement a web site rendition of the designs
 * No image file should be larger than 1MB.
 * Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
 * Use lowercase, combined with kebab case, to name folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
-* Valid HTML, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package discussed in class. **Note**: The original HTML validator from the syllabus is invalid, also per our discussion in a previous class. You may also validate at [https://github.com/code-warrior/final--spring-2018-web-design-1-at-queens-college](https://github.com/code-warrior/final--spring-2018-web-design-1-at-queens-college).
+* Valid HTML, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package discussed in class. **Note**: The original HTML validator from the syllabus is invalid, also per our discussion in a previous class. You may also validate at [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input).
 * Valid CSS, per the same [w3c-validation](https://atom.io/packages/w3c-validation) Atom package. You may also validate at [https://jigsaw.w3.org/css-validator/#validate_by_input](https://jigsaw.w3.org/css-validator/#validate_by_input).
 
 ## Grading
