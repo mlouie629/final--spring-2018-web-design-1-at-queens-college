@@ -1,0 +1,22 @@
+header {
+   background: url(../img/CAT.png) center no-repeat;
+   background-size: contain;
+   width: 55.7%;
+   /* max-width: 960px; */
+   margin: auto;
+   position: relative;
+   padding-top: 40px;
+   padding-right: 40px;
+   padding-left: 40px;
+   min-height: 845px;
+}
+
+h1 {
+   font-family: "coolvetica", sans-serif;
+   letter-spacing: 4px;
+   color: #fff;
+   font-size: 8vw;
+   position: absolute;
+   margin-top: 80px;
+   margin-left: 50px;
+}

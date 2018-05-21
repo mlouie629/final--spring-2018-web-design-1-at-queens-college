@@ -1,0 +1,48 @@
+#container {
+   background: #004963 url('../img/cat.png') no-repeat 90px 200px / 550px 550px;
+   width: 90%;
+   height: 900px;
+   margin: auto;
+   overflow: auto;
+}
+
+header h1 {
+  font-size: 9vw;
+}
+
+.column {
+  flex: 50%;
+  max-width: 50%;
+}
+
+.about_txt {
+  padding-right: 0;
+}
+
+header {
+  width: 100%;
+  box-sizing: border-box;
+  padding-bottom: 30px;
+}
+
+.about p {
+  margin-top: 40px;
+  width: 400px;
+}
+
+nav {
+  position: static;
+}
+
+nav ul {
+  float: none;
+  margin: 0
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  margin: 20px;
+}

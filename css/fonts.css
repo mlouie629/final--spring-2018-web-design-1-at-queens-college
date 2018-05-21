@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "coolvetica";
+   src: url(../fonts/coolvetica-rg.ttf)
+}
+
+@font-face {
+   font-family: "Century Gothic";
+   font-weight: 400;
+   font-style: normal;
+   src: url("../fonts/Century Gothic.ttf") format("truetype");
+}
+
+@font-face {
+   font-family: "Century Gothic";
+   font-weight: 700;
+   font-style: normal;
+   src: url("../fonts/GOTHICB.ttf") format("truetype");
+}

@@ -1,0 +1,132 @@
+body {
+   font-family: sans-serif;
+   background-color: #027f9f;
+}
+
+#container {
+   background: #004963 url('../img/cat.png') no-repeat 90px 300px / 550px 550px;
+   width: 90%;
+   height: 900px;
+   margin: auto;
+   overflow: auto;
+}
+
+p {
+   background-color: #fff;
+   opacity: 0.8;
+   border-radius: 25px;
+   padding: 60px;
+   margin-left: 80px;
+   line-height: 1.6;
+   font-family: "Century Gothic", sans-serif;
+   font-weight: 400;
+   font-size: 20px;
+   color: #004963;
+   position: relative;
+   top: 100px;
+}
+
+.textbox {
+  background-color: #fff;
+  opacity: 0.8;
+  border-radius: 25px;
+  padding: 60px;
+  margin-left: 60px;
+  line-height: 1.6;
+  font-family: "Century Gothic", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #004963;
+  position: relative;
+  top: 110px;
+  text-align: center;
+}
+
+main {
+   float: left;
+   width: 68%;
+}
+
+.about main img {
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+   border-color: rgba(123,189,215,0.8);
+   border-style: solid;
+   border-width: thick;
+   position: relative;
+   top: 80px;
+   left: 270px;
+}
+
+.portrait{
+   border-radius: 90px;
+   text-align: center;
+   border-color: rgba(123,189,215,0.8);
+   border-style: solid;
+   border-width: thick;
+   position: absolute;
+   top: 110px;
+   left: 180px;
+   z-index: 1;
+}
+
+.about_txt{
+   padding-right: 200px;
+}
+
+.home,
+.contact {
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.portfolio{
+   background-image: none;
+   background-color: #027f9f;
+   background-size: 100px 100px;
+}
+
+.weight{
+   font-size: 40px;
+   width: 700px;
+   color: #004963;
+   font-family: "coolvetica";
+   position: relative;
+}
+
+.row {
+   display: flex;
+   flex-wrap: wrap;
+   padding: 0 4px;
+   /*position: absolute;
+   z-index: 1;*/
+}
+
+.column {
+   flex: 21%;
+   padding: 0 4px;
+}
+
+.column img {
+   margin-top: 8px;
+   vertical-align: middle;
+   z-index: 1;
+}
+
+
+.txt{
+   background-color: #fff;
+   opacity: 0.8;
+   border-radius: 25px;
+   padding: 50px;
+   width: 700px;
+   margin-left: 80px;
+   border-top: 0px solid #fff;
+   line-height: 1.6;
+   font-family: "Century Gothic", sans-serif;
+   font-weight: 700;
+   color: #004963;
+   text-align: center;
+   z-index: 2;
+}
